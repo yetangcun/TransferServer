@@ -1,0 +1,12 @@
+﻿<Window xmlns:Views="clr-namespace:TransferServer.Views"  x:Class="TransferServer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TransferServer" WindowStartupLocation="CenterScreen" Closing="Window_Closing"
+        mc:Ignorable="d" Title="高端通讯服务" Height="720" Width="1080" Icon="wireless.ico" StateChanged="Window_StateChanged">
+    <Grid x:Name="topGrid">
+        <!--<Views:PortMap />-->
+        <Views:SocketUI x:Name="socketSrever" />
+    </Grid>
+</Window>

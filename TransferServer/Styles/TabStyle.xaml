@@ -1,0 +1,28 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <LinearGradientBrush x:Key="CheckedState" StartPoint="0,0" EndPoint="0,1">
+        <GradientStop Color="White" Offset="1"/>
+    </LinearGradientBrush>
+    <LinearGradientBrush x:Key="UnCheckedState" StartPoint="0,0" EndPoint="0,1">
+        <GradientStop Color="#eeeeee" Offset="1"/>
+    </LinearGradientBrush>
+    <Style TargetType="TabItem"><!--x:Key="Gobal_Tabitem_Style"-->
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="TabItem">
+                    <Grid>
+                        <Border Name="Border" BorderThickness="1,1,1,0" BorderBrush="#eeeeee" Background="{StaticResource UnCheckedState}" Height="33" Margin="0,0,1,-0.6" CornerRadius="1,1,0,0">
+                            <ContentPresenter x:Name="ContentSite" VerticalAlignment="Center" HorizontalAlignment="Center" ContentSource="Header" Margin="12,5" RecognizesAccessKey="True" />
+                        </Border>
+                    </Grid>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsSelected" Value="True">
+                            <Setter Property="Panel.ZIndex" Value="100"/>
+                            <Setter TargetName="Border" Property="Background" Value="{StaticResource CheckedState}"/>
+                            <Setter TargetName="Border" Property="BorderThickness" Value="1,1,1,0"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>

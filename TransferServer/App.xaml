@@ -1,0 +1,21 @@
+﻿<Application x:Class="TransferServer.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TransferServer"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <!--自定义控件的全局样式-->
+                <ResourceDictionary Source="Styles/TabStyle.xaml"/>
+                <ResourceDictionary Source="Styles/BtnStyle.xaml"/>
+                <ResourceDictionary Source="Styles/TxtStyle.xaml"/>
+                <ResourceDictionary Source="Styles/CmbStyle.xaml"/>
+                <ResourceDictionary Source="Styles/GridStyle.xaml"/>
+                <ResourceDictionary Source="Styles/DateStyle.xaml"/>
+                <ResourceDictionary Source="Styles/ScrollStyle.xaml"/>
+                <!--<ResourceDictionary Source="Styles/TabCtrlStyle.xaml"/>-->
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
