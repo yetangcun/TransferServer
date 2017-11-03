@@ -123,7 +123,7 @@ namespace TransferCommon
 
                     if (len <= 0) //数据有效长度为0时
                     {
-                        if (size >= MaxBuffer) //超过阈值 则重置缓冲区
+                        if (buffer.Length >= MaxBuffer) //超过阈值 则重置缓冲区
                         {
                             buffer = new byte[size];
                             offset = 0;

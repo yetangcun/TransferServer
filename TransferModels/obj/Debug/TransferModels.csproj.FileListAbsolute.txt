@@ -19,4 +19,3 @@ C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferModels\bin\Debu
 C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferModels\bin\Debug\TransferModels.pdb
 C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferModels\obj\Debug\TransferModels.dll
 C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferModels\obj\Debug\TransferModels.pdb
-C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferModels\obj\Debug\TransferModels.csprojResolveAssemblyReference.cache

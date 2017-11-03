@@ -39,4 +39,3 @@ C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\ExeRelease\TransferComm
 C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\ExeRelease\TransferCommon.pdb
 C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferCommon\obj\Debug\TransferCommon.dll
 C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferCommon\obj\Debug\TransferCommon.pdb
-C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferCommon\obj\Debug\TransferCommon.csprojResolveAssemblyReference.cache

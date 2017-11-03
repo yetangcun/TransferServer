@@ -45,4 +45,3 @@ C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\ExeRelease\TransferUtil
 C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\ExeRelease\TransferUtility.pdb
 C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferUtility\obj\Debug\TransferUtility.dll
 C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferUtility\obj\Debug\TransferUtility.pdb
-C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferUtility\obj\Debug\TransferUtility.csprojResolveAssemblyReference.cache
