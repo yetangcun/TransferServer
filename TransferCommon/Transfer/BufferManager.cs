@@ -15,7 +15,7 @@ namespace TransferCommon
         private int size = 1024 * 8; //默认8k
 
         private int MaxSize = 545259520;//520M 标识大小
-        private int MaxBuffer = 512000; //500KB
+        private int MaxBuffer = 532480; //500KB
         private int LeftSize //可用空间
         {
             get { return buffer.Length - offset - len; }
