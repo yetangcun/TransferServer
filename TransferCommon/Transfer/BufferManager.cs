@@ -118,16 +118,12 @@ namespace TransferCommon
                     Array.Copy(buffer, offset + 4, data, 0, packLen);
                     if (data.Length > 0) { list.Add(data); }
 
-                    offset += packLen + 4; //数据长度和包头长度(包头长度是标识数据大小的头四个字节)
                     len -= (packLen + 4);
-
-                    if (len <= 0) //数据有效长度为0时
+                    offset += packLen + 4; //数据长度和包头长度(包头长度是标识数据大小的头四个字节)
+                    if (len <= 0 && buffer.Length >= MaxBuffer) //超过阈值 则重置缓冲区
                     {
-                        if (buffer.Length >= MaxBuffer) //超过阈值 则重置缓冲区
-                        {
-                            buffer = new byte[size];
-                            offset = 0;
-                        }
+                        buffer = new byte[size];
+                        offset = 0;
                     }
                 }
                 else break;
