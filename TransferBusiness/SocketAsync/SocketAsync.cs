@@ -143,7 +143,7 @@ namespace TransferBusiness.SocketAsync
                 {
                     AsyncUserToken token = (AsyncUserToken)e.UserToken;
                     BufferManager.WriteBuffer(token.Token, e.Buffer, e.Offset, transSize);
-                    var datas = BufferManager.PacketsHandle(token.Token);
+                    List<byte[]> datas = BufferManager.PacketsHandle(token.Token);
                     if (datas != null && datas.Count > 0)
                     {
                         MemoryStream memeory = null;
