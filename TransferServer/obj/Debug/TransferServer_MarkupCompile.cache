@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferServer\obj\Debug\
+F:\Gits\net\TransferServer\TransferServer\obj\Debug\
 TransferServer
 none
 false
 DEBUG;TRACE
-C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferServer\App.xaml
+F:\Gits\net\TransferServer\TransferServer\App.xaml
 121741809849
 
-8632205482
-18-1758048276
+9-1684408694
+18499601691
 MainWindow.xaml;Styles\BtnStyle.xaml;Styles\CmbStyle.xaml;Styles\DateStyle.xaml;Styles\GridStyle.xaml;Styles\ScrollStyle.xaml;Styles\TabCtrlStyle.xaml;Styles\TabStyle.xaml;Styles\TxtStyle.xaml;Views\PortMap.xaml;Views\SocketUI.xaml;WinRoute.xaml;
 
-False
+True
 

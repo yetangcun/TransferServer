@@ -27,6 +27,7 @@ namespace TransferServer
                 MsgUtility.ShowMsgHandle += ShowMsg;
 
                 WinNotifyIcon.Icon = new System.Drawing.Icon(Application.GetResourceStream(new Uri("pack://application:,,,/TransferServer;component/wireless.ico")).Stream);
+
                 WinNotifyIcon.Visible = true; WinNotifyIcon.MouseDoubleClick += WinNotifyIcon_MouseDoubleClick;
             }
             catch (Exception en)

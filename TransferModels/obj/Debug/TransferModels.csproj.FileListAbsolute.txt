@@ -19,3 +19,8 @@ C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferModels\bin\Debu
 C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferModels\bin\Debug\TransferModels.pdb
 C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferModels\obj\Debug\TransferModels.dll
 C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferModels\obj\Debug\TransferModels.pdb
+F:\Gits\net\TransferServer\TransferModels\bin\Debug\TransferModels.dll
+F:\Gits\net\TransferServer\TransferModels\bin\Debug\TransferModels.pdb
+F:\Gits\net\TransferServer\TransferModels\obj\Debug\TransferModels.csproj.CoreCompileInputs.cache
+F:\Gits\net\TransferServer\TransferModels\obj\Debug\TransferModels.dll
+F:\Gits\net\TransferServer\TransferModels\obj\Debug\TransferModels.pdb

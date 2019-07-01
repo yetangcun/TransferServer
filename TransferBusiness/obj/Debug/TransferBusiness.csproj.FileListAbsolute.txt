@@ -73,3 +73,10 @@ C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\ExeRelease\TransferBusi
 C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferBusiness\obj\Debug\TransferBusiness.csprojResolveAssemblyReference.cache
 C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferBusiness\obj\Debug\TransferBusiness.dll
 C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferBusiness\obj\Debug\TransferBusiness.pdb
+F:\Gits\net\TransferServer\ExeRelease\TransferBusiness.dll
+F:\Gits\net\TransferServer\ExeRelease\TransferBusiness.pdb
+F:\Gits\net\TransferServer\TransferBusiness\obj\Debug\TransferBusiness.csprojAssemblyReference.cache
+F:\Gits\net\TransferServer\TransferBusiness\obj\Debug\TransferBusiness.csproj.CoreCompileInputs.cache
+F:\Gits\net\TransferServer\TransferBusiness\obj\Debug\TransferBusiness.csproj.CopyComplete
+F:\Gits\net\TransferServer\TransferBusiness\obj\Debug\TransferBusiness.dll
+F:\Gits\net\TransferServer\TransferBusiness\obj\Debug\TransferBusiness.pdb

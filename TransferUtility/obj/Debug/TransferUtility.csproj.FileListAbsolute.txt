@@ -45,3 +45,9 @@ C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\ExeRelease\TransferUtil
 C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\ExeRelease\TransferUtility.pdb
 C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferUtility\obj\Debug\TransferUtility.dll
 C:\Users\PC\Desktop\Work\Socket\Socket2.0\TransferServer\TransferUtility\obj\Debug\TransferUtility.pdb
+F:\Gits\net\TransferServer\ExeRelease\TransferUtility.dll
+F:\Gits\net\TransferServer\ExeRelease\TransferUtility.pdb
+F:\Gits\net\TransferServer\TransferUtility\obj\Debug\TransferUtility.csproj.CoreCompileInputs.cache
+F:\Gits\net\TransferServer\TransferUtility\obj\Debug\TransferUtility.csproj.CopyComplete
+F:\Gits\net\TransferServer\TransferUtility\obj\Debug\TransferUtility.dll
+F:\Gits\net\TransferServer\TransferUtility\obj\Debug\TransferUtility.pdb
