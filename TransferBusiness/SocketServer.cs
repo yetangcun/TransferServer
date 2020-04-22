@@ -93,7 +93,7 @@ namespace TransferBusiness
                 {
                     mStream.Write(state.buffer, 0, bytesRead);
                     mStream.Flush();
-                    mStream.Position = 0;
+                    // mStream.Position = 0;
                     if (mStream.Length > 0)
                     {
                         BinaryFormatter bFormatter = new BinaryFormatter();
